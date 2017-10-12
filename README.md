@@ -22,4 +22,4 @@ packages available on npm. The possibilities of what can be done with Node are e
 One can pair it with a frontend framework like Angular and a database system like MongoDB to
 create a MEAN Stack application.
 
-![minecraftstore](https://user-images.githubusercontent.com/2385925/31488638-fed14a06-af46-11e7-9413-46d9592741a9.png)
+![instastack](https://user-images.githubusercontent.com/2385925/31489999-40d3ec52-af4b-11e7-8485-cffb326aaeb0.png)
